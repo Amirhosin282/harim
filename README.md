@@ -1,11 +1,11 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="./branding/logo" alt="Harim Banner">
+  <img src="./branding/logo/RemovdBGLOGO.png" alt="Harim Banner">
 </p>
 
 <h1 align="center">🛡️ حریم | Harim</h1>
-> **دانش، حمایت، امنیت**
+<h3 align="center">دانش، حمایت، امنیت</h3>
 
 <p align="center">
 Open-source initiative for digital safety, awareness, and support against sextortion.
