@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">🛡️ حریم | Harim</h1>
+<h3 align="center">An open-source initiative focused on digital safety, awareness, and sextortion prevention for Persian-speaking communities</h3>
 
 <p align="center">
 <b>دانش، حمایت، امنیت</b>
