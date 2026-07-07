@@ -102,5 +102,10 @@ research/     پژوهش‌ها و منابع
 <p align="center">
 <b>دانش، حمایت، امنیت</b>
 
+<p align="center">
+<b>✉️ ارتباط با حریم : 
+harim.security@gmail.com</b>
+
+
 ساخته شده با امید به اینترنتی امن‌تر.
 </p>
